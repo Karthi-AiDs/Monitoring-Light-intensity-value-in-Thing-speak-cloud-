@@ -90,7 +90,9 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
-```
+
+~~~
+
  #include"ThingSpeak.h"
 #include <WiFi.h>
 
@@ -141,17 +143,18 @@ void loop()
   // Optional: Add a delay for a more stable output
   delay(1000); // 1-second delay between readings
 }
-```
+~~~
 
 # CIRCUIT DIAGRAM:
 
-![baa86c35-3903-484b-976c-bad6ecef6e0e](https://github.com/user-attachments/assets/15161084-ada6-492c-874b-59b564185197)
+
 
 # OUTPUT:
 
-![26d539b7-8222-40df-b17c-484effc65564](https://github.com/user-attachments/assets/9803bb38-54b5-4ff0-8771-de675c2342f2)
+![19862a4c-03d6-4f5c-92dc-fff87bddc214](https://github.com/user-attachments/assets/00ba5ff3-0e81-4e72-a144-9add469e3d89)
+![d60e2e9e-4522-444a-9ed2-4f50aeb0117d](https://github.com/user-attachments/assets/f94d154a-3de1-4112-83d4-e5bdbd81514c)
 
-![Screenshot 2024-12-17 093711](https://github.com/user-attachments/assets/486e366a-6a09-4ef1-8586-4996b7330167)
+
 
 # RESULT:
 
