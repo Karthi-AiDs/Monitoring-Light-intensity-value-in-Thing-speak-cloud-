@@ -149,6 +149,8 @@ void loop()
 
 # OUTPUT:
 
+![26d539b7-8222-40df-b17c-484effc65564](https://github.com/user-attachments/assets/9803bb38-54b5-4ff0-8771-de675c2342f2)
+
 ![Screenshot 2024-12-17 093711](https://github.com/user-attachments/assets/486e366a-6a09-4ef1-8586-4996b7330167)
 
 # RESULT:
