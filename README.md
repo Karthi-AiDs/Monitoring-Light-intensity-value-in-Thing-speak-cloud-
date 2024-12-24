@@ -147,6 +147,7 @@ void loop()
 
 # CIRCUIT DIAGRAM:
 
+![09186b18-5857-4753-b459-ae85232256b3](https://github.com/user-attachments/assets/96931307-9b2d-4a2a-a80b-ed2d834dceed)
 
 
 # OUTPUT:
